@@ -11,6 +11,6 @@ Keeping track of our daily activities efficiently is crucial for staying organiz
 - **Comprehensive Task Management**: Users can manage existing tasks and add new activities directly within the To-Do List sheet. The interface is designed to be user-friendly, facilitating easy navigation and task management.
 - **Interactive Controls**: Checkboxes and dropdown menus allow users to interact with and manage task statuses and priorities easily. ActiveX control checkboxes are used to mark tasks as complete or to manage other boolean statuses interactively.
 - **Progress Tracking and Visualization**: The To-Do List sheet includes a task completion % chart that visually tracks the progress of completed activities. The high-level summary and visual charts provide users with a clear understanding of their task completion status.
-[Snip 2]
+![Snip 2](https://github.com/Pgoel95/Task-Management-Tool/blob/main/Activity%20Tracker%20Snip%202.png?raw=true)
 # VBA Code
 The tracker uses VBA (Visual Basic for Applications) code to handle dynamic interactions, automate task fetching, and manage updates. Ensure that macros are enabled in your Excel settings to utilize these features fully.
