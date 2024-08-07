@@ -1,3 +1,9 @@
 # Daily Activities Tracker
 
-Keeping track of our daily activities efficiently is crucial for staying organized and meeting deadlines. In today's fast-paced world, managing our tasks can sometimes be challenge.This Daily Activities Tracker is an Excel-based tool designed to help you organize, track, and manage your daily tasks efficiently. With features like automated task fetching, dynamic date selection, and a user-friendly interface, this tracker is perfect for individuals looking to boost productivity and keep their daily activities in check.
+Keeping track of our daily activities efficiently is crucial for staying organized and meeting deadlines. In today's fast-paced world, managing our tasks can sometimes be challenge. This Daily Activities Tracker is an Excel-based tool designed to help you organize, track, and manage your daily tasks efficiently. With features like automated task fetching, dynamic date selection, and a user-friendly interface, this tracker is perfect for individuals looking to boost productivity and keep their daily activities in check. This tracker has been designed with three different sheets - **To-Do List**, **Master List**, **Support**
+
+# Features
+
+- **Dynamic Date Selection**: Easily select any date from the calendar and the tracker will automatically update to show tasks relevant to that date.
+- **Automated Task Fetching**: The tracker fetches pending tasks from a master list based on the selected date, ensuring you always have up-to-date information.
+- **Dynamic Month List**: The Support Data sheet contains a list of months specifically used for the Month dropdown available in the “To-Do List” sheet.This list is dynamically adjusted based on the current calendar month, displaying the past month, the current month, and the upcoming 10 months.This dynamic adjustment ensures that the dropdown in the “To-Do List” sheet always provides a relevant and updated list of 12 months for task planning and tracking.
