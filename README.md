@@ -14,6 +14,6 @@ Keeping track of our daily activities efficiently is crucial for staying organiz
 ![Snip 2](https://github.com/Pgoel95/Task-Management-Tool/blob/main/Activity%20Tracker%20Snip%202.png?raw=true)
 # VBA Code
 The tracker uses VBA (Visual Basic for Applications) code to handle dynamic interactions, automate task fetching, and manage updates. Ensure that macros are enabled in your Excel settings to utilize these features fully.
-
+![Snip 3]
 # Contributing
 If you have suggestions or improvements, feel free to submit a pull request or open an issue. Your contributions are welcome to make the Daily Activities Tracker even better!
